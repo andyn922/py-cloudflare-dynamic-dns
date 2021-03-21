@@ -48,7 +48,6 @@ def prlog(message: str, isError=False):
         print(message)
         logging.info(message)
 
-
 # Main
 logging.info(" - Started new session. ---")
 
