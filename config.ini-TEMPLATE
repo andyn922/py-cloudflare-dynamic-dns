@@ -1,0 +1,7 @@
+[CLOUDFLARE_CONFIG]
+api_token = averylongandunreadableapitokentfromcloudflare
+zone_name = myzonename.ninja
+record_name = record.myzonename.ninja
+
+[LOG_RETENTION]
+days = 90
