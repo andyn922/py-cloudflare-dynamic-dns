@@ -1,10 +1,11 @@
 # Cloudflare Dynamic DNS Client.
-Update a single record on cloudflare with the ip address if where this script is run. **Tested on python 3.9** may or may not work on earlier versions.
+Update a single record on cloudflare with the ip address of where this script was run.   
+**Tested on python 3.9** may or may not work on earlier versions.
 
 # Setup
 
 ## Required python modules
- - requiests
+ - requests
  - arrow
 
 ## Cloudflare API token
